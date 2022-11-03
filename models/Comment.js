@@ -18,13 +18,6 @@ Comment.init(
     comment: {
       type: DataTypes.STRING,
     },
-    description_id: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: 'description',
-        key: 'id',
-      },
-    },
     user_id: {
       type: DataTypes.INTEGER,
       references: {
