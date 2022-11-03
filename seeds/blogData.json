@@ -1,14 +1,17 @@
 [
   {
     "name": "Coding is Awesome",
-    "description": "I love coding!"
+    "description": "I love coding!",
+    "user_id": 2
   },
   {
     "name": "This bootcamp is a lot of fun",
-    "description": "I wish they would give us more homework though!"
+    "description": "I wish they would give us more homework though!",
+    "user_id": 2
   },
   {
     "name": "I would like to have a better understanding of coding",
-    "description": "I work really hard after hours but there is so much information to learn."
+    "description": "I work really hard after hours but there is so much information to learn.",
+    "user_id": 3
   }
 ]

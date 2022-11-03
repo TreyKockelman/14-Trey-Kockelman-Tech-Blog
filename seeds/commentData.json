@@ -1,14 +1,17 @@
 [
   {
-    "name": "Coding is Awesome",
-    "description": "I love coding!"
+    "comment": "I also love coding!",
+    "user_id": 1,
+    "blog_id": 1
   },
   {
-    "name": "This bootcamp is a lot of fun",
-    "description": "I wish they would give us more homework though!"
+    "comment": "I wish I could learn coding as fast as Gary!",
+    "user_id": 3,
+    "blog_id": 1
   },
   {
-    "name": "I would like to have a better understanding of coding",
-    "description": "I work really hard after hours but there is so much information to learn."
+    "comment": "I havent had to work as hard after hours because of my prior experiences.",
+    "user_id": 1,
+    "blog_id": 3
   }
 ]

@@ -3,3 +3,19 @@
 <h2>Created by {{user.name}} on {{createdAt}}</h2>
 
 <p>{{description}}</p>
+
+<h2> Comments </h2>
+
+<p>
+  {{#each comments as |comment|}}
+    {{>comment-details}}
+  {{/each}}
+</p>
+
+<h5>Add a comment</h5>
+<div class="form-outline">
+  <textarea class="form-control" id="commentUpdate" rows="4"></textarea>
+</div>
+<button type="button" class="btn">
+  Send <i class="fas fa-long-arrow-alt-right ms-1"></i>
+</button>
