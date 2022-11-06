@@ -1,9 +1,7 @@
 const submitComment = async (event) => {
   event.preventDefault();
-  console.log("click");
 
   const blog_id = document.location.pathname.split("/")[2]
-  console.log(blog_id)
   const comment = document.querySelector('#comment-update').value.trim();
 
   console.log(blog_id, comment);
