@@ -17,4 +17,7 @@
 
   ## Questions
   If you have any questions feel free to go to my github account [TreyKockelman](https://github.com/TreyKockelman) or email me at [kockelmant@gmail.com](kockelmant@gmail.com).
+
+  ## Deployed Website
+  [Tech Blog](https://14-trey-kockelman-tech-blog-production.up.railway.app/)
   
